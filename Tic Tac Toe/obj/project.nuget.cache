@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vo8dP5iYNmEQFE2X6EcfLOsHaftImzvcZFGL4A4XQLYpPD3S+iqzJCMbh6GvB16J0sr6gaKJ6HdURVTVITbD7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hima1\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\Tic Tac Toe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hima1\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\hima1\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\hima1\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
